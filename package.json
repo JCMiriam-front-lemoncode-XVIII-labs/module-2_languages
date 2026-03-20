@@ -3,14 +3,18 @@
   "version": "1.0.0",
   "description": "Readme",
   "main": "index.js",
-    "scripts": {
-    "dev": "ts-node src/index.ts",
+  "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "format": "prettier . --write",
-    "format:check": "prettier . --check"
+    "format:check": "prettier . --check",
+    "exercise:01": "ts-node src/exercises/exercise-01/index.ts",
+    "exercise:02": "ts-node src/exercises/exercise-02/index.ts",
+    "exercise:03": "ts-node src/exercises/exercise-03/index.ts",
+    "exercise:04": "ts-node src/exercises/exercise-04/index.ts",
+    "exercise:05": "ts-node src/exercises/exercise-05/index.ts"
   },
   "keywords": [],
   "author": "",
