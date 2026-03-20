@@ -12,6 +12,8 @@ Este repositorio contiene la resolución de los ejercicios propuestos en el `Mó
 
 El proyecto está planteado como una colección de ejercicios independientes, ejecutables desde terminal mediante scripts específicos.
 
+▶️ Para comenzar, ejecutar `npm run install` desde la raíz del proyecto.
+
 ---
 
 ## ✨ Ejercios:
