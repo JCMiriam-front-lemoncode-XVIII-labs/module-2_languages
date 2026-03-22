@@ -1,4 +1,4 @@
-# 🎨 Languages LAB
+# 💻 Lenguages - LAB
 
 Este repositorio contiene la resolución de los ejercicios propuestos en el `Módulo 2 - Lenguajes` desarrollados con **TypeScript**. Incluye:
 
